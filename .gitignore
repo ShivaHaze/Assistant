@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Environment variables
+*.env
+
+# MacOS system files
+*.DS_Store
